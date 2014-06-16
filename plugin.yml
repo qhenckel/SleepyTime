@@ -1,0 +1,9 @@
+main: com.poorfox.sleepyTime.SleepyTime
+name: SleepyTime
+version: 1.0
+author: Quinn
+description: For making the night time go bye bye, when only half the server is sleeping.
+commands:
+  sleepytime:
+    description: Manually trigger a count of sleeping players.
+    usage: /sleepytime

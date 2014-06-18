@@ -1,4 +1,4 @@
-package com.poorfox.sleepyTime;
+package io.github.qhenckel.sleepyTime;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;

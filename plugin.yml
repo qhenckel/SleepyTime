@@ -1,4 +1,4 @@
-main: io.github.qhenckel.sleepyTime.SleepyTime
+main: com.poorfox.sleepyTime.SleepyTime
 name: SleepyTime
 version: 1.0
 author: Quinn
